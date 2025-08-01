@@ -1,5 +1,3 @@
-### 3. README.md Content
-
 #### System Overview: Description of the working incident notification system
 
 The working incident notification system is triggered when an incident with a priority of “Critical” is created and the Assignment Group is set to “ITSM Engineering”. Once the trigger conditions are met, the workflow sends a notification to the members of the ITSM Engineering group. The email body template for the notification includes the incident number for easy reference.
