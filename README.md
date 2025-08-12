@@ -13,13 +13,13 @@ My investigation revealed several issues that prevented the system from function
 
 2.  **Workflow Configuration:**
     * Corrected an incorrectly formatted trigger condition.
-    * Configured the workflow to trigger only when the incident's priority is set to **“Critical”** and the assignment group is set to **“ITSM Engineering”**.
+    * Configured the workflow to trigger only when the incident's priority is set to **“Critical”** and the category is set to **“Network”**.
 
 Once these changes were made, the workflow and notification system began to run as intended.
 
 #### Architecture Diagram: Visual representation of the complete system flow. Use Draw.io
 
-<img width="456" height="599" alt="Diagram" src="https://github.com/user-attachments/assets/649249bc-e738-4f94-95ae-4da2768be73d" />
+<img width="456" height="599" alt="Diagram" src="https://github.com/user-attachments/assets/66d1432c-953d-4292-9a13-b8d27ba6efdc" />
 
 
 #### AI Scenario: How AI agents could enhance incident routing
